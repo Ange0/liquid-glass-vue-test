@@ -7,7 +7,7 @@ export default defineConfig({
   resolve: {
     alias: {
       // Alias pour utiliser le package local pendant le développement
-      'liquid-glass-vue3': 'E:/APPS/pakages/liquid-glass-vue/src/index.ts'
+      //'liquid-glass-vue3': 'E:/APPS/pakages/liquid-glass-vue/src/index.ts'
     }
   }
 })
