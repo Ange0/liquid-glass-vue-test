@@ -10,7 +10,7 @@
     },
     "dependencies": {
         "@tailwindcss/vite": "^4.1.10",
-        "liquid-glass-vue3": "file:../liquid-glass-vue/liquid-glass-vue3-1.0.8.tgz",
+        "liquid-glass-vue3": "^1.0.9",
         "lucide-vue-next": "^0.515.0",
         "tailwindcss": "^4.1.10",
         "vue": "^3.3.11"
