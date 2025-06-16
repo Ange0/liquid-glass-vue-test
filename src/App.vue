@@ -87,6 +87,7 @@
 import { ref, computed } from 'vue';
 import { LiquidGlass } from 'liquid-glass-vue3'
 import { LogOutIcon, Github } from 'lucide-vue-next';
+import 'liquid-glass-vue3/dist/style.css'
 
 // User Info Card Controls
 const displacementScale = ref(100);

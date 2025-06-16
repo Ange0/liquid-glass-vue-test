@@ -1,6 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import './../index.css'
+
 // Import du plugin (si vous utilisez l'installation globale)
 // import LiquidGlassPlugin from 'liquid-glass-vue3'
 
